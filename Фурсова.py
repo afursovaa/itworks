@@ -7,4 +7,6 @@ while not Np==0:
     k=k*p
     Np=Np//10
 print(f"N10={N10}")
+print("Zа Россию")
+
 
