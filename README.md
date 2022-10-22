@@ -4,7 +4,7 @@
 [codepen](https://codepen.io/afursovaa)
 
 
-[сайт](https://pasyanscom.wordpress.com/)
+[wordpress](https://pasyanscom.wordpress.com/)
 # Файлы в репозитории
 
 
