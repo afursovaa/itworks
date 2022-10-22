@@ -1,0 +1,4 @@
+SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES
+SELECT * FROM USERS
+SELECT * FROM users, grades WHERE users.user_id = grades.user_id
+SELECT * FROM users WHERE name = ('Олег')
