@@ -1,4 +1,4 @@
-SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES
-SELECT * FROM USERS
-SELECT * FROM users, grades WHERE users.user_id = grades.user_id
-SELECT * FROM users WHERE name = ('Олег')
+SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES вывод названия таблиц
+SELECT * FROM USERS Выводит содержимое таблицы users
+SELECT * FROM users, grades WHERE users.user_id = grades.user_id Выбрать тех, кто получил оценку
+SELECT * FROM users WHERE name = ('Олег') Найти людей с именем Олег
