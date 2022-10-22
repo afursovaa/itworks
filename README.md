@@ -42,3 +42,6 @@ Untitled0.ipynb Программа перевода по коду Хэмминг
 
 
 turtle.py Рисунок дерева в python
+
+
+sql.txt Описание команд в sql
