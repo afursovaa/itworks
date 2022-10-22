@@ -8,40 +8,40 @@
 # Файлы в репозитории 🚗
 
 
-[таблица.xlsx](https://github.com/afursovaa/itworks/tree/main/turtle) Булева алгебра
+[таблица.xlsx](https://github.com/afursovaa/itworks/blob/main/%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0.xlsx) Булева алгебра
 
 
-ответики.txt Ответы на ЕГЭ
+[ответики.txt](https://github.com/afursovaa/itworks/blob/main/%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D0%B8%D0%BA%D0%B8.txt) Ответы на ЕГЭ
 
 
-Фурсова2.xlsx  Перевод кода Морзе в Excel
+[Фурсова2.xlsx](https://github.com/afursovaa/itworks/blob/main/%D0%A4%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B02.xlsx)  Перевод кода Морзе в Excel
 
 
-Фурсова2.py  Перевод кода Морзе в python
+[Фурсова2.py](https://github.com/afursovaa/itworks/blob/main/%D0%A4%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B02.py) Перевод кода Морзе в python
 
 
-Фурсова.xlsx Перевод в десятичную СС (1 лист) в Excel; Таблица умножения (2 лист) в Excel
+[Фурсова.xlsx](https://github.com/afursovaa/itworks/blob/main/%D0%A4%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0.xlsx) Перевод в десятичную СС (1 лист) в Excel; Таблица умножения (2 лист) в Excel
 
 
-Фурсова.py Перевод в десятичную СС в python
+[Фурсова.py](https://github.com/afursovaa/itworks/blob/main/%D0%A4%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0.py) Перевод в десятичную СС в python
 
 
-Нейронка.png Скриншот из Нейросимулятора
+[Нейронка.png](https://github.com/afursovaa/itworks/blob/main/%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BA%D0%B0.png) Скриншот из Нейросимулятора
 
 
-table.py Таблица умножения в python
+[table.py](https://github.com/afursovaa/itworks/blob/main/table.py) Таблица умножения в python
 
 
-bdtest.py База данных в python
+[bdtest.py](https://github.com/afursovaa/itworks/blob/main/bdtest.py) База данных в python
 
 
-Untitled3.ipynb Пробный файл в Юпитере
+[Untitled3.ipynb](https://github.com/afursovaa/itworks/blob/main/Untitled3.ipynb) Пробный файл в Юпитере
 
 
-Untitled0.ipynb Программа перевода по коду Хэмминга в Юпитере
+[Untitled0.ipynb](https://github.com/afursovaa/itworks/blob/main/Untitled0.ipynb) Программа перевода по коду Хэмминга в Юпитере
 
 
-turtle.py Рисунок дерева в python
+[turtle.py](https://github.com/afursovaa/itworks/tree/main/turtle) Рисунок дерева в python
 
 
-sql.txt Описание команд в sql
+[sql.txt](https://github.com/afursovaa/itworks/blob/main/sql.txt) Описание команд в sql
