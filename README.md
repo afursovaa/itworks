@@ -54,3 +54,7 @@ $$ F=mc^2 $$
 
 
 $$ A\leftrightarrow B=(\bar{A} {\vee } B)\wedge (\bar{B} \vee A) $$
+
+
+
+[latex_editor.png](https://github.com/afursovaa/itworks/blob/main/latex_editor.png) Скриншот формулы
