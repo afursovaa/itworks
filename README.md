@@ -51,3 +51,6 @@
 
 
 $$ F=mc^2 $$
+
+
+$$ A\leftrightarrow B=(\bar{A} {\vee } B)\wedge (\bar{B} \vee A) $$
