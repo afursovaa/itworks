@@ -48,3 +48,6 @@
 
 
 [bool.py](https://github.com/afursovaa/itworks/blob/main/bool.py)   Булевое выражение в python
+
+
+$$ F=mc^2 $$
