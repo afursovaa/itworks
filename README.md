@@ -47,4 +47,4 @@
 [sql.txt](https://github.com/afursovaa/itworks/blob/main/sql.txt) Описание команд в sql
 
 
-bool.py Булевое выражение в python
+[bool.py](https://github.com/afursovaa/itworks/blob/main/bool.py)   Булевое выражение в python
