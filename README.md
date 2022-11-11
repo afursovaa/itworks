@@ -56,7 +56,7 @@ $$ F=mc^2 $$
 $$ A\leftrightarrow B=(\bar{A} {\vee } B)\wedge (\bar{B} \vee A) $$
 
 
-$$\bar{E^{2}_{1}}=\sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}}+\alpha^{\frac{1}{3}}_{1}+\beta^{\frac{2}{3}}_{2}$$
+$$\color{Violet}bar{E^{2}_{1}}=\sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}}+\alpha^{\frac{1}{3}}_{1}+\beta^{\frac{2}{3}}_{2}$$
 
 
 
