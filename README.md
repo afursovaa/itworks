@@ -57,14 +57,20 @@ $$ A\leftrightarrow B=(\bar{A} {\vee } B)\wedge (\bar{B} \vee A) $$
 
 
 $$\color{Violet}bar{E^{2}_{1}}=\sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}}+\alpha^{\frac{1}{3}}_{1}+\beta^{\frac{2}{3}}_{2}$$
+
+
 ![lagrida_latex_editor (10)](https://user-images.githubusercontent.com/114716845/201262744-56538732-6001-4181-931a-aa2436c278be.png)
 
 
 $$\overrightarrow{F}=m\overrightarrow{a}$$
+
+
 ![lagrida_latex_editor (12)](https://user-images.githubusercontent.com/114716845/201262781-4926ce08-c59f-441d-ba8f-384048a5c869.png)
 
 
 $$\overrightarrow{P}=m\overrightarrow{g}$$
+
+
 ![lagrida_latex_editor (11)](https://user-images.githubusercontent.com/114716845/201262766-68793354-238a-431a-9376-80299d07d5fb.png)
 
 
