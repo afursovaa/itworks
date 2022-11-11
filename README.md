@@ -59,5 +59,6 @@ $$ A\leftrightarrow B=(\bar{A} {\vee } B)\wedge (\bar{B} \vee A) $$
 $$\color{Violet}bar{E^{2}_{1}}=\sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}}+\alpha^{\frac{1}{3}}_{1}+\beta^{\frac{2}{3}}_{2}$$
 
 
+$$\bar{F}=m\bar{a}$$
 
 [latex_editor.png](https://github.com/afursovaa/itworks/blob/main/latex_editor.png) Скриншот формулы
