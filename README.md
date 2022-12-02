@@ -68,7 +68,7 @@ $$\overrightarrow{F}=m\overrightarrow{a}$$
 ![lagrida_latex_editor (12)](https://user-images.githubusercontent.com/114716845/201262781-4926ce08-c59f-441d-ba8f-384048a5c869.png)
 
 
-$$\overrightarrow{P}=m\overrightarrow{g}$$
+$$\color{Pink}overrightarrow{P}=m\overrightarrow{g}$$
 
 
 ![lagrida_latex_editor (11)](https://user-images.githubusercontent.com/114716845/201262766-68793354-238a-431a-9376-80299d07d5fb.png)
