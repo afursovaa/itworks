@@ -80,8 +80,8 @@ $$\overrightarrow{P}=m\overrightarrow{g}$$
 ```mermaid
 flowchart LR
 
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+A[10 класс] -->|подготовка к аттестации| B(аттестация)
+B --> C{ЕГЭ}
+C -->|сдан хорошо| D[luxury life]
+C -->|сдан плохо| E[находишь богатого мужа]
 ```
