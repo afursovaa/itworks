@@ -77,7 +77,7 @@ $$\overrightarrow{P}=m\overrightarrow{g}$$
 [latex_editor.png](https://github.com/afursovaa/itworks/blob/main/latex_editor.png) Скриншот формулы
 
 
-```
+```mermaid
 flowchart LR
 
 A[Hard] -->|Text| B(Round)
