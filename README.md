@@ -77,6 +77,8 @@ $$\overrightarrow{P}=m\overrightarrow{g}$$
 [latex_editor.png](https://github.com/afursovaa/itworks/blob/main/latex_editor.png) Скриншот формулы
 
 
+names.py программа, меняющая имена
+
 ```mermaid
 flowchart LR
 
